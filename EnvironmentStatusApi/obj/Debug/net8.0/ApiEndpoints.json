@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "EnvironmentStatusApi.Controllers.SystemController",
+    "Method": "GetStatus",
+    "RelativePath": "System/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
