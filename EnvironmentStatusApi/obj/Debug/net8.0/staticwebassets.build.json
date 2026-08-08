@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WBhX5jrLhoRWOHzVifn+xwbgx5oryjSnnHffdoL+kJs=",
+  "Source": "EnvironmentStatusApi",
+  "BasePath": "_content/EnvironmentStatusApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
